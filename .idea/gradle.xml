@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Creating list" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Characterize the abstract class" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Features of an abstract method" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Incorrect declaration" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Overriding when extending" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Single method" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Resolve a diamond problem" />
+            <option value="$PROJECT_DIR$/Topics/Default methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Creating a map" />
+            <option value="$PROJECT_DIR$/Topics/The Map interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Ordering the execution of threads" />
+            <option value="$PROJECT_DIR$/Topics/Thread management/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Multithreaded counter" />
+            <option value="$PROJECT_DIR$/Topics/Thread synchronization/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Web Quiz Engine/task/out" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
